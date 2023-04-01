@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoGuessEncoding": true,
+		"files.encoding": "utf8",
+		//"java.jdt.ls.java.home": "C:\\jdk-19.0.2\\bin",
+		"java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -Dfile.encoding=UTF-8",
+		"javac-linter.javac": "javac -Dfile.encoding=UTF-8",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
