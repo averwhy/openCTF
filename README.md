@@ -4,6 +4,16 @@ This is going to be a WIP for a long time. I'm currently a college student and c
 
 *If any other plugin developers would like to help, let me know!*
 
+---
+
+![GitHub](https://img.shields.io/github/license/averwhy/openCTF?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/averwhy/openCTF?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/averwhy/openCTF?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/averwhy/openCTF?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/averwhy/openCTF?style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/averwhy/openCTF?style=flat-square)
+
+
 # openCTF
 A open source recreation of MCPVP's MCCTF.
 
