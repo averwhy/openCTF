@@ -17,7 +17,7 @@ This is going to be a WIP for a long time. I'm currently a college student and c
 # openCTF
 A open source recreation of MCPVP's MCCTF.
 
-[title](https://github.com/averwhy/openCTF/blob/main/README.md#openctf) | [about](https://github.com/averwhy/openCTF/blob/main/README.md#about) | [features](https://github.com/averwhy/openCTF/blob/main/README.md#features) | [timeline](https://github.com/averwhy/openCTF/blob/main/README.md#timeline) | [install](https://github.com/averwhy/openCTF#installation-and-use)
+[title](https://github.com/averwhy/openCTF#openctf) | [about](https://github.com/averwhy/openCTF#about) | [features](https://github.com/averwhy/openCTF#features) | [timeline](https://github.com/averwhy/openCTF#timeline) | [install](https://github.com/averwhy/openCTF#installation-and-use)
 
 ## About
 WIP
